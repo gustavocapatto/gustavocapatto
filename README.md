@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Eu sou Luiz Gustavo Capatto.<br><br>Sou apaixonado por tecnologia e atualmente estou focado em me tornar um Engenheiro de Software.<br><br>🚀 Estou sempre aprendendo:<br><br>Princípios de Engenharia de Software<br>Boas práticas de arquitetura de sistemas<br>Desenvolvimento Full Stack<br>📫 Vamos nos conectar!<br>
+Olá! Eu sou Luiz Gustavo Capatto.<br><br>Sou apaixonado por tecnologia e atualmente estou focado em me tornar um Engenheiro de Software.<br><br>🚀 Estou sempre aprendendo<br>
 
 
 ## 🌐 Socials:
